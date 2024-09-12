@@ -135,13 +135,18 @@ public class Main {
 		
 		
 		
-		Arrays.sort(arr);
+//		Arrays.sort(arr);
+//		
+//		for(int i : arr) System.out.println(i);
+//		
+//		
+//		int binarySearch = Arrays.binarySearch(arr, 12);
+//		System.out.println("Index "+binarySearch);
 		
-		for(int i : arr) System.out.println(i);
 		
 		
-		int binarySearch = Arrays.binarySearch(arr, 12);
-		System.out.println("Index "+binarySearch);
+//		99% object oriented programming language
+		
 
 		
 	}
