@@ -1,7 +1,7 @@
 package oops;
 
 public class EncapsulatedHuman {
-
+//	binding properties with methods
 	private String name;
 	private int roll;
 	

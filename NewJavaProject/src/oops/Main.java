@@ -32,7 +32,10 @@ public class Main {
 //		soumyajit.eyeSize = 10;
 //		soumyajit.handSize = 15;
 //		soumyajit.legSize = 30;
-
+		int b = 16;
+		b += Math.sqrt(b);
+		
+		System.out.println(b);
 //		Human [] students = new Human[5];
 
 //		students[0] = subhradeep;
@@ -98,7 +101,7 @@ public class Main {
 		
 		
 		
-//		System.out.println("Subhradeep");
+		System.out.println("Subhradeep");
 //		System.out.println(12);
 		
 //		method overloading
@@ -106,11 +109,14 @@ public class Main {
 //		f(3,4);
 //		f("Subhradeep");
 		
+		int a  = 12;
 		
 		Child c = new Child();
 		c.show();
 		
 		Parent p = new Parent();
 		p.show();;
+		
+		
 	}
 }
