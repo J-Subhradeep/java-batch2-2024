@@ -58,5 +58,12 @@ public class StreamAPIMain {
 //		System.out.println(sum);
 //		System.out.println(mul);
 		
+//		map, filter, reduce
+		
+//		["subhradeep", "baivab"] -> ["asubhradeep", "abaivab"]
+		
+//		1. add character 'a' as first character of all string elements inside a array using stream api
+//		2. Show the result of multiplication of each elements inside a array.
+//		3. find the prime numbers from an array and show them seperately
 	}
 }
